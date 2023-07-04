@@ -1,0 +1,11 @@
+.div_principal{
+    border-radius: .4rem;
+    border-color: blueviolet;
+    padding: .5rem;
+
+}
+
+.div_principal > h2{
+    color: green;
+    font-weight: 600;
+}

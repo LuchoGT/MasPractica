@@ -1,6 +1,6 @@
 .div_principal{
     border-radius: .4rem;
-    border-color: blueviolet;
+    border-color: #8a2be2;
     padding: .5rem;
 
 }
@@ -8,4 +8,14 @@
 .div_principal > h2{
     color: green;
     font-weight: 600;
+}
+
+.div_secundario{
+    border-color: violet;
+    padding: .5rem;
+}
+
+.div_secundario >h3{
+    color: darkred;
+    line-height: .6rem;
 }
